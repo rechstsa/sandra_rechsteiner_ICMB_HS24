@@ -1,0 +1,15 @@
+{
+  "hash": "a503bf260ce856625fdf9cac192ae942",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Assignment 1: Hello World\"\nauthor: \"Sandra Rechsteiner\"\nformat: html\neditor: visual\n---\n\n\n\n\n\nIn this introductory assignment, I just want you to make a simple plot. Here is an example:\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- rnorm(10000, mean = 100, sd = 15)\nhist(x)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n\n---\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n## Running Code\n\nWhen you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\nYou can add options to executable code like this\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n\n\n\nThe `echo: false` option disables the printing of code (only output is displayed).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
