@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "hw1/index.html",
+    "href": "hw1/index.html",
+    "title": "Assignment 1: Hello World",
+    "section": "",
+    "text": "In this introductory assignment, I just want you to make a simple plot. Here is an example:\nCode\nx &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)",
+    "crumbs": [
+      "About",
+      "Assignment 1: Hello World"
+    ]
+  },
+  {
+    "objectID": "hw1/index.html#quarto",
+    "href": "hw1/index.html#quarto",
+    "title": "Assignment 1: Hello World",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "crumbs": [
+      "About",
+      "Assignment 1: Hello World"
+    ]
+  },
+  {
+    "objectID": "hw1/index.html#running-code",
+    "href": "hw1/index.html#running-code",
+    "title": "Assignment 1: Hello World",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed).",
+    "crumbs": [
+      "About",
+      "Assignment 1: Hello World"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n\n Back to top"
+  }
+]
